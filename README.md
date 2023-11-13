@@ -1,6 +1,6 @@
-# JavaScript - DesignPatterns
+# TypeScript - DesignPatterns
 
-This repository contains the implementation of the design patterns using **JavaScript**.
+This repository contains the implementation of the design patterns using **TypeScript**.
 Design patterns are typical solutions to common problems in software design.
 Each pattern is like a blueprint that you can customize to solve a particular design problem in code.
 
