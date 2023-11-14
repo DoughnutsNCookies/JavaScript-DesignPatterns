@@ -10,7 +10,7 @@ Here is a list of common creational design patterns:
 
 ### 1. 🏭 [Factory Method](./Factory-Method)
 
-Defines an interface for creating an object\*\* but leaves the choice of its type to the subclasses, creation being deferred at the time of instantiation.
+Defines an interface for creating an object but leaves the choice of its type to the subclasses, creation being deferred at the time of instantiation.
 
 **Use Case:**
 
