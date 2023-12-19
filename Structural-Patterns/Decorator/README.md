@@ -1,4 +1,4 @@
-# 🎨 Decorator Design Pattern
+# 🎨 Decorator
 
 The **Decorator** design pattern allows behavior to be **added to individual objects**, either statically or dynamically, **without affecting the behavior** of other objects from the same class. It is useful for **extending the functionality** of classes in a flexible and reusable way, promoting the principle of open-closed design.
 
