@@ -1,4 +1,4 @@
-# 1️⃣ Singleton Design Pattern
+# 1️⃣ Singleton
 
 The **Singleton** design pattern ensures that a class has only one instance and provides a global point of access to it. This pattern is useful when **exactly one object is needed** to coordinate actions across the system, such as managing configuration settings, logging, or a shared resource.
 

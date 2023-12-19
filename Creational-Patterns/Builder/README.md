@@ -1,4 +1,4 @@
-# 👷 Builder Design Pattern
+# 👷 Builder
 
 Also known as the **Step Builder** pattern, the **Builder** design pattern is a creational pattern that separates the construction of a complex object from its representation. It allows the **same construction process to create different representations**.
 
