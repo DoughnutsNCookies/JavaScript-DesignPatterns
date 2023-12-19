@@ -71,7 +71,6 @@ class AdapterForAdvancedAudio implements Audio {
     this.advancedAudioProcessor.stop();
   }
 }
-
 ```
 
 Now, the client code can use the `AudioPlayer` class with the new library through the adapter, seamlessly integrating the advanced audio processing capabilities.
@@ -93,7 +92,6 @@ function useAudioInterface(audioInterface: Audio) {
 const audioPlayer = new AudioPlayer();
 const advancedAudioProcessor = new AdvancedAudioProcessor();
 const adapterForAdvancedAudio = new AdapterForAdvancedAudio(advancedAudioProcessor);
-
 
 useAudioInterface(audioPlayer); // Output: Playing audio. Pausing audio.
 useAudioInterface(adapterForAdvancedAudio); // Output: Starting processing. Stopping processing.
