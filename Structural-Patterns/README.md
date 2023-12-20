@@ -66,7 +66,7 @@ Provides a simplified, unified interface to a set of interfaces in a subsystem. 
 
 ---
 
-### 6. 🔃 [Flyweight](./Flyweight)
+### 6. ✈️ [Flyweight](./Flyweight)
 
 Minimizes memory usage or computational expenses by sharing as much as possible with related objects. It is particularly useful when a large number of similar objects need to be created.
 
