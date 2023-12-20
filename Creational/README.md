@@ -27,6 +27,7 @@ Provides an interface for creating families of related or dependent objects with
 
 - Creating families of objects that need to be consistent with each other.
 - Switching between different families of objects in a system.
+- Supporting the construction of different variants of a product.
 
 ---
 
@@ -38,6 +39,7 @@ Separates the construction of a complex object from its representation, allowing
 
 - Constructing complex objects step by step.
 - Creating different representations of the same object.
+- Improving the readability of object creation by using a dedicated builder class.
 
 ---
 
@@ -49,6 +51,7 @@ Creates new objects by copying an existing object, known as the prototype.
 
 - Creating new objects that are similar to existing objects.
 - Reducing the cost of creating complex objects.
+- Decoupling the client code from the concrete classes of objects being cloned.
 
 ---
 
@@ -60,5 +63,6 @@ Ensures a class has only one instance and provides a global point of access to i
 
 - Controlling access to resources, such as a database connection.
 - Managing a shared resource in a concurrent system.
+- Reducing overhead by having only one instance of a class.
 
 ---
