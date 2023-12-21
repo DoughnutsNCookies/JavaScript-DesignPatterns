@@ -78,7 +78,7 @@ Defines a one-to-many dependency between objects so that when one object changes
 
 ---
 
-### 7. 🔄 [State](./State)
+### 7. 🚦 [State](./State)
 
 Allows an object to alter its behavior when its internal state changes. The object appears to change its class.
 
