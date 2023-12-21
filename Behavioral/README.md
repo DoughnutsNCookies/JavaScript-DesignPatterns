@@ -114,7 +114,7 @@ Defines the skeleton of an algorithm in the superclass but lets subclasses alter
 
 ---
 
-### 10. 🚶 [Visitor](./Visitor)
+### 10. 🧳 [Visitor](./Visitor)
 
 Represents an operation to be performed on the elements of an object structure. It lets you define a new operation without changing the classes of the elements on which it operates.
 
