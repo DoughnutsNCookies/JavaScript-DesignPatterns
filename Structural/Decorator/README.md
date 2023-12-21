@@ -8,13 +8,13 @@ Imagine you are developing a coffee ordering system. The challenge is to create 
 
 ## ✅ Solution
 
-The **Decorator** design pattern provides a solution to this problem by allowing you to **attach new behaviors to objects** by placing them inside special wrapper classes that implement the same interface. This allows you to **stack multiple decorators**, each adding a specific behavior, without modifying the original class. The Decorator pattern enables the creation of a flexible and extensible system for customizing objects.
+The **Decorator** design pattern provides a solution to this problem by allowing you to **attach new behaviors to objects** by placing them inside special wrapper classes that implement the same interface. This allows you to **stack multiple decorators**, each adding a specific behavior, without modifying the original class. The **Decorator** pattern enables the creation of a flexible and extensible system for customizing objects.
 
-In our coffee ordering system scenario, the Decorator pattern allows us to add various options to a base coffee class without creating a new subclass for each combination.
+In our coffee ordering system scenario, the **Decorator** pattern allows us to add various options to a base coffee class without creating a new subclass for each combination.
 
 ## ✍🏻 Application
 
-Let's create a `Coffee` interface as the base component. The `SimpleCoffee` class implements this interface, representing the basic coffee. Decorator classes such as `MilkDecorator`, `SugarDecorator`, and `FlavoringDecorator` extend the behavior of the base component by implementing the same interface and wrapping instances of the base class.
+Let's create a `Coffee` interface as the base component. The `SimpleCoffee` class implements this interface, representing the basic coffee. **Decorator** classes such as `MilkDecorator`, `SugarDecorator`, and `FlavoringDecorator` extend the behavior of the base component by implementing the same interface and wrapping instances of the base class.
 
 ```typescript
 /**

@@ -1,6 +1,6 @@
 # 🌌 Abstract Factory
 
-Also known as the **Kit** pattern, the Abstract Factory is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+Also known as the **Kit** pattern, the **Abstract Factory** is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 ## ❓ Problem
 

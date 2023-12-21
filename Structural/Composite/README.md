@@ -12,7 +12,7 @@ The conventional approach might involve creating separate classes for each shape
 
 The **Composite** design pattern provides a solution to this problem by allowing you to compose objects into **tree structures**. Both individual shapes and groups of shapes implement a common interface, enabling clients to treat them uniformly. This pattern facilitates the creation of complex structures while providing a seamless way to work with individual elements and compositions.
 
-In our graphic design application scenario, the Composite pattern allows us to create a hierarchy of shapes and groups, providing a **unified interface** for manipulation.
+In our graphic design application scenario, the **Composite** pattern allows us to create a hierarchy of shapes and groups, providing a **unified interface** for manipulation.
 
 ## ✍🏻 Application
 

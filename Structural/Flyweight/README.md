@@ -12,7 +12,7 @@ The conventional approach might involve creating a separate object for each char
 
 The Flyweight design pattern provides a solution to this problem by **separating the intrinsic (shared) state and the extrinsic (unique) state** of objects. The intrinsic state is shared among multiple objects, while the extrinsic state is unique to each object. This allows you to reuse shared state, reducing memory overhead and improving performance.
 
-In our graphical editor scenario, the Flyweight pattern allows us to create a `CharacterFlyweightFactory` that manages shared character objects and a `Character` class that represents individual characters with unique properties.
+In our graphical editor scenario, the **Flyweight** pattern allows us to create a `CharacterFlyweightFactory` that manages shared character objects and a `Character` class that represents individual characters with unique properties.
 
 ## ✍🏻 Application
 

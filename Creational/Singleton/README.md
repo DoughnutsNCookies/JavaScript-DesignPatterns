@@ -12,7 +12,7 @@ The conventional approach of creating a new logger instance for each component l
 
 The **Singleton** design pattern provides a solution to this problem by ensuring that a class has **only one instance** and providing a **global point of access** to it. This guarantees that all components in the system share the same logger instance, allowing for consistent and centralized logging.
 
-In our logging system scenario, the Singleton pattern allows us to create a single logger instance that can be accessed by all components, ensuring a streamlined and coordinated logging process.
+In our logging system scenario, the **Singleton** pattern allows us to create a single logger instance that can be accessed by all components, ensuring a streamlined and coordinated logging process.
 
 ## ✍🏻 Application
 

@@ -1,6 +1,6 @@
 # 🤖 Prototype
 
-Also known as the **Clone** pattern, the Prototype design pattern is a creational pattern that focuses on creating objects by copying an existing object, known as the prototype. This pattern allows the creation of new objects with the same properties as the original object, providing a way to produce new instances without specifying their exact class.
+Also known as the **Clone** pattern, the **Prototype** design pattern is a creational pattern that focuses on creating objects by copying an existing object, known as the prototype. This pattern allows the creation of new objects with the same properties as the original object, providing a way to produce new instances without specifying their exact class.
 
 ## ❓ Problem
 
@@ -12,7 +12,7 @@ The conventional approach of creating objects using constructors leads to **code
 
 The **Prototype** design pattern provides a solution to this problem by introducing a **cloneable interface or method** in the base class (prototype). Subclasses implement the cloning method to create copies of themselves. This way, clients can create new objects by copying an existing prototype, reducing the need for complex initialization logic.
 
-In our graphic design application scenario, the Prototype pattern allows us to clone shapes easily, providing a flexible and efficient way to create and customize shapes.
+In our graphic design application scenario, the **Prototype** pattern allows us to clone shapes easily, providing a flexible and efficient way to create and customize shapes.
 
 ## ✍🏻 Application
 

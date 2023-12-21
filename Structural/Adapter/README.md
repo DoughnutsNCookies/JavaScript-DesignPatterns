@@ -12,7 +12,7 @@ The conventional approach would involve **modifying the existing codebase** to a
 
 The **Adapter** design pattern provides a solution to this problem by introducing a **wrapper class (the adapter)** that converts the interface of the new library into the interface expected by the existing code. This allows the new library to **seamlessly integrate** with the multimedia player without requiring modifications to the player's core functionality.
 
-In our multimedia player scenario, the Adapter pattern enables us to use the advanced audio processing library by creating an adapter that translates its interface into the one expected by the player.
+In our multimedia player scenario, the **Adapter** pattern enables us to use the advanced audio processing library by creating an adapter that translates its interface into the one expected by the player.
 
 ## ✍🏻 Application
 
