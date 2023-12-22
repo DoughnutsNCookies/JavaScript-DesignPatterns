@@ -42,13 +42,13 @@ Unlike other patterns, they can be used to design the architecture of an entire 
 In addition, all patterns can be categorized by their intent, or purpose.
 
 ### 🧠 [Creational Patterns](./Creational)
-	Provide object creation mechanisms that increase flexibility and reuse of existing code.
+Provide object creation mechanisms that increase flexibility and reuse of existing code.
 
 ### 🏗 [Structural Patterns](./Structural)
-	Explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+Explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 ### ⭐ [Behavioral Patterns](./Behavioral)
-	Take care of effective communication and the assignment of responsibilities between objects.
+Take care of effective communication and the assignment of responsibilities between objects.
 
 # Resources
 
